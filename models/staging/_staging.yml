@@ -1,0 +1,13 @@
+version: 2
+
+models:
+  - name: stg_ventas
+    description: "Ventas limpias desde la capa RAW"
+
+  - name: stg_productos
+    description: "Productos limpios desde la capa RAW"
+
+  - name: stg_clientes
+    description: "Clientes limpios desde la capa RAW"
+
+  

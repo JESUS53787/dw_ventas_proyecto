@@ -1,0 +1,11 @@
+version: 2
+
+models:
+  - name: fct_ventas
+    description: "Tabla de hechos de ventas"
+
+  - name: dim_productos
+    description: "Dimension de productos"
+
+  - name: dim_clientes
+    description: "Dimension de clientes"

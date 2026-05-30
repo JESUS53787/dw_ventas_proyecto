@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: raw
+    database: DW_VENTAS
+    schema: RAW
+    tables:
+      - name: ventas
+        description: "Transacciones de venta brutas"
+        columns:
+          - name: venta_id
+            tests: [unique, not_null]
+      - name: productos
+        description: "Catálogo de productos"
+        columns:
+          - name: producto_id
+            tests: [unique, not_null]
+      - name: clientes
+        description: "Maestro de clientes"
+        columns:
+          - name: cliente_id
+            tests: [unique, not_null]
