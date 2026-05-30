@@ -1,0 +1,201 @@
+cliente_id,nombre,email,ciudad,pais,fecha_registro
+C001,Clotilde Moll-Zamorano,clotilde.moll-zamorano@email.com,La Paz,Bolivia,2025-08-29
+C002,Rodrigo Villa Sevillano,rodrigo.villa.sevillano@email.com,Cochabamba,Bolivia,2023-07-08
+C003,Odalys Jaén Rozas,odalys.jaen.rozas@email.com,Córdoba,Argentina,2024-05-12
+C004,Marcio Cáceres Vergara,marcio.caceres.vergara@email.com,Lima,Perú,2024-05-04
+C005,Oriana Requena,oriana.requena@email.com,Valparaíso,Chile,2025-02-25
+C006,Nayara Ferrán Nogueira,nayara.ferran.nogueira@email.com,La Paz,Bolivia,2025-12-11
+C007,Inocencio Solís Poza,inocencio.solis.poza@email.com,Córdoba,Argentina,2023-09-26
+C008,Trinidad Pereira Roura,trinidad.pereira.roura@email.com,Cali,Colombia,2024-02-25
+C009,Vera Rincón Perelló,vera.rincon.perello@email.com,Lima,Perú,2023-08-24
+C010,Patricia Cazorla Escribano,patricia.cazorla.escribano@email.com,Ciudad de México,México,2025-05-04
+C011,Darío Gallo-Enríquez,dario.gallo-enriquez@email.com,Valparaíso,Chile,2024-06-29
+C012,Encarnacion Velázquez-Marquez,encarnacion.velazquez-marquez@email.com,Concepción,Chile,2025-09-28
+C013,Galo Estevez Lucena,galo.estevez.lucena@email.com,Bogotá,Colombia,2024-02-09
+C014,Cloe Leal Montenegro,cloe.leal.montenegro@email.com,Medellín,Colombia,2025-11-23
+C015,Atilio Bilbao Frías,atilio.bilbao.frias@email.com,Cali,Colombia,2025-10-26
+C016,Tristán de Fuertes,tristan.de.fuertes@email.com,Bogotá,Colombia,2023-08-14
+C017,Gabino Vicente Torrents,gabino.vicente.torrents@email.com,Lima,Perú,2023-06-03
+C018,Sara Badía Arce,sara.badia.arce@email.com,Ciudad de México,México,2024-12-14
+C019,Benita Cruz Larrea,benita.cruz.larrea@email.com,Cochabamba,Bolivia,2024-09-24
+C020,Darío Galan Comas,dario.galan.comas@email.com,Santa Cruz,Bolivia,2024-02-13
+C021,Ulises Calzada-Checa,ulises.calzada-checa@email.com,Valparaíso,Chile,2023-12-03
+C022,Alma Ferrán Arcos,alma.ferran.arcos@email.com,Córdoba,Argentina,2025-05-10
+C023,Jacobo Calatayud Baró,jacobo.calatayud.baro@email.com,Córdoba,Argentina,2025-04-26
+C024,Ciriaco Galan Camacho,ciriaco.galan.camacho@email.com,Santiago,Chile,2023-12-17
+C025,Lisandro Goicoechea Cervera,lisandro.goicoechea.cervera@email.com,Cusco,Perú,2024-11-24
+C026,Lucas Sanmartín Echevarría,lucas.sanmartin.echevarria@email.com,Cochabamba,Bolivia,2024-09-05
+C027,Eva Corominas Mur,eva.corominas.mur@email.com,Santa Cruz,Bolivia,2024-09-30
+C028,Marisela de Arteaga,marisela.de.arteaga@email.com,Valparaíso,Chile,2024-10-17
+C029,Tiburcio Calleja Pou,tiburcio.calleja.pou@email.com,Santa Cruz,Bolivia,2024-03-14
+C030,Ignacia Suárez Gimeno,ignacia.suarez.gimeno@email.com,Rosario,Argentina,2024-05-08
+C031,Bernardino Vicente Chico,bernardino.vicente.chico@email.com,Guadalajara,México,2024-07-18
+C032,Lázaro Cerezo-Torralba,lazaro.cerezo-torralba@email.com,Rosario,Argentina,2026-02-12
+C033,Encarna Pujadas Bustamante,encarna.pujadas.bustamante@email.com,Valparaíso,Chile,2025-01-17
+C034,Edelmira de Benito,edelmira.de.benito@email.com,Santiago,Chile,2023-09-20
+C035,Albina Agudo Gallo,albina.agudo.gallo@email.com,La Paz,Bolivia,2026-01-26
+C036,Miguel Ángel Alcaraz Vázquez,miguel.angel.alcaraz.vazquez@email.com,Santa Cruz,Bolivia,2023-12-29
+C037,Luciano Guillén Ponce,luciano.guillen.ponce@email.com,Santa Cruz,Bolivia,2023-10-06
+C038,Reynaldo Tello Barón,reynaldo.tello.baron@email.com,Santa Cruz,Bolivia,2026-03-19
+C039,María José del Baeza,maria.jose.del.baeza@email.com,Buenos Aires,Argentina,2025-05-18
+C040,Bernabé de Carbó,bernabe.de.carbo@email.com,Buenos Aires,Argentina,2023-09-16
+C041,Trinidad Moll Parejo,trinidad.moll.parejo@email.com,Medellín,Colombia,2026-01-06
+C042,Ale Arrieta Estévez,ale.arrieta.estevez@email.com,Buenos Aires,Argentina,2025-05-26
+C043,Gervasio Giner Tapia,gervasio.giner.tapia@email.com,Monterrey,México,2023-10-03
+C044,Javi Sanmartín Taboada,javi.sanmartin.taboada@email.com,Guadalajara,México,2024-12-16
+C045,Eli Duque-Segovia,eli.duque-segovia@email.com,Cusco,Perú,2025-01-21
+C046,Serafina Malo Antúnez,serafina.malo.antunez@email.com,Cochabamba,Bolivia,2024-06-08
+C047,Ezequiel Matas Donaire,ezequiel.matas.donaire@email.com,Cochabamba,Bolivia,2024-05-14
+C048,Godofredo Alfaro-Moles,godofredo.alfaro-moles@email.com,Arequipa,Perú,2025-04-19
+C049,Jose Francisco Sosa Roman,jose.francisco.sosa.roman@email.com,Cochabamba,Bolivia,2024-01-30
+C050,César Palmer Vergara,cesar.palmer.vergara@email.com,Guadalajara,México,2025-05-16
+C051,Ulises Catalá Rocha,ulises.catala.rocha@email.com,La Paz,Bolivia,2025-02-28
+C052,Pascuala Pujadas-Aragonés,pascuala.pujadas-aragones@email.com,Arequipa,Perú,2023-07-22
+C053,Celestino Rincón Puig,celestino.rincon.puig@email.com,Cusco,Perú,2026-01-24
+C054,Clementina Tamara Malo Egea,clementina.tamara.malo.egea@email.com,Rosario,Argentina,2024-12-04
+C055,Yolanda Casal-Piquer,yolanda.casal-piquer@email.com,Bogotá,Colombia,2025-10-12
+C056,Vanesa Cervantes,vanesa.cervantes@email.com,Cusco,Perú,2023-08-11
+C057,Olimpia del Lasa,olimpia.del.lasa@email.com,Guadalajara,México,2023-07-29
+C058,Purificación Marín Landa,purificacion.marin.landa@email.com,Rosario,Argentina,2023-10-24
+C059,Luciana Nydia Alba Benet,luciana.nydia.alba.benet@email.com,Cali,Colombia,2024-10-12
+C060,Lilia Lozano Arnau,lilia.lozano.arnau@email.com,Santa Cruz,Bolivia,2024-03-06
+C061,Candelas Sánchez-Marín,candelas.sanchez-marin@email.com,Córdoba,Argentina,2024-12-25
+C062,Fabián Armengol-Gonzalo,fabian.armengol-gonzalo@email.com,Bogotá,Colombia,2025-10-20
+C063,Lupe Campo Casado,lupe.campo.casado@email.com,Córdoba,Argentina,2024-04-05
+C064,Almudena Abril Plaza,almudena.abril.plaza@email.com,Rosario,Argentina,2024-03-23
+C065,Nicodemo Moles Patiño,nicodemo.moles.patiño@email.com,Monterrey,México,2026-01-25
+C066,Rufino Córdoba Figuerola,rufino.cordoba.figuerola@email.com,Cochabamba,Bolivia,2026-05-15
+C067,Elisabet Andreu Portero,elisabet.andreu.portero@email.com,Buenos Aires,Argentina,2024-05-25
+C068,Lina Alsina-Belmonte,lina.alsina-belmonte@email.com,Bogotá,Colombia,2025-04-15
+C069,Nicolasa Porta Gascón,nicolasa.porta.gascon@email.com,Monterrey,México,2023-12-25
+C070,Concha Goicoechea Benavent,concha.goicoechea.benavent@email.com,Ciudad de México,México,2023-10-09
+C071,Fabricio Rios Anguita,fabricio.rios.anguita@email.com,Santiago,Chile,2023-11-04
+C072,Tito del Garmendia,tito.del.garmendia@email.com,Santiago,Chile,2024-05-21
+C073,Sandra Carretero,sandra.carretero@email.com,Guadalajara,México,2024-12-09
+C074,Miguel Ángel de Anaya,miguel.angel.de.anaya@email.com,Monterrey,México,2024-03-29
+C075,Rodolfo Mármol-Ramirez,rodolfo.marmol-ramirez@email.com,Córdoba,Argentina,2023-07-07
+C076,Elodia Mascaró-Terrón,elodia.mascaro-terron@email.com,Ciudad de México,México,2024-01-09
+C077,Rosa María Abril-Tena,rosa.maria.abril-tena@email.com,Valparaíso,Chile,2024-10-13
+C078,Felicidad Arteaga Olivera,felicidad.arteaga.olivera@email.com,Ciudad de México,México,2024-05-31
+C079,Flora Baena Belda,flora.baena.belda@email.com,La Paz,Bolivia,2025-09-29
+C080,Víctor Gargallo,victor.gargallo@email.com,Ciudad de México,México,2024-05-11
+C081,Adalberto Juárez Ricart,adalberto.juarez.ricart@email.com,Bogotá,Colombia,2025-03-26
+C082,Adelina de Toledo,adelina.de.toledo@email.com,Valparaíso,Chile,2025-12-28
+C083,Moisés Osorio Ariza,moises.osorio.ariza@email.com,Buenos Aires,Argentina,2023-12-20
+C084,Toribio Ruperto Barrios Pellicer,toribio.ruperto.barrios.pellicer@email.com,Bogotá,Colombia,2024-03-12
+C085,Ramón Benítez-Colom,ramon.benitez-colom@email.com,Monterrey,México,2026-03-05
+C086,Flavia Vicente Plaza,flavia.vicente.plaza@email.com,Arequipa,Perú,2025-10-18
+C087,Gustavo Serra Sarmiento,gustavo.serra.sarmiento@email.com,Rosario,Argentina,2025-12-05
+C088,Olga Alcalá Duque,olga.alcala.duque@email.com,Córdoba,Argentina,2025-04-10
+C089,José Antonio Agustí Abril,jose.antonio.agusti.abril@email.com,Cusco,Perú,2025-03-02
+C090,Esther Cortés Mir,esther.cortes.mir@email.com,Concepción,Chile,2023-10-09
+C091,Serafina María Cristina Trujillo Jove,serafina.maria.cristina.trujillo.jove@email.com,Córdoba,Argentina,2024-05-21
+C092,Rogelio Diaz Coca,rogelio.diaz.coca@email.com,Santiago,Chile,2024-06-08
+C093,Juliana Arellano Aramburu,juliana.arellano.aramburu@email.com,Santiago,Chile,2023-09-22
+C094,Benjamín Plaza Cobo,benjamin.plaza.cobo@email.com,Cochabamba,Bolivia,2023-06-04
+C095,Azahara Garcia Lamas,azahara.garcia.lamas@email.com,Valparaíso,Chile,2024-08-15
+C096,Marisela Vidal Luís,marisela.vidal.luis@email.com,Arequipa,Perú,2024-08-27
+C097,Jaime Huertas Marti,jaime.huertas.marti@email.com,Buenos Aires,Argentina,2024-12-27
+C098,Anselmo Espejo Rico,anselmo.espejo.rico@email.com,Cusco,Perú,2026-03-15
+C099,María Jesús López Larrañaga,maria.jesus.lopez.larrañaga@email.com,Arequipa,Perú,2023-12-19
+C100,Adelaida Gutiérrez,adelaida.gutierrez@email.com,Córdoba,Argentina,2024-01-27
+C101,Dorita Velasco Giner,dorita.velasco.giner@email.com,Santa Cruz,Bolivia,2025-07-25
+C102,Viviana Valero-Ledesma,viviana.valero-ledesma@email.com,Buenos Aires,Argentina,2024-12-20
+C103,Felicidad Figuerola Chaparro,felicidad.figuerola.chaparro@email.com,Cali,Colombia,2023-12-26
+C104,América de Agudo,america.de.agudo@email.com,Ciudad de México,México,2025-10-28
+C105,Estrella Vera Benito Mas,estrella.vera.benito.mas@email.com,Guadalajara,México,2025-12-01
+C106,Modesta de Avilés,modesta.de.aviles@email.com,Concepción,Chile,2024-08-11
+C107,Marc Morales,marc.morales@email.com,Concepción,Chile,2025-03-05
+C108,Gloria Feijoo,gloria.feijoo@email.com,Santa Cruz,Bolivia,2024-11-11
+C109,Cipriano Romeu-Herrero,cipriano.romeu-herrero@email.com,Arequipa,Perú,2025-07-20
+C110,Sol Cuenca-Nuñez,sol.cuenca-nuñez@email.com,Valparaíso,Chile,2025-01-27
+C111,Dora Ariza Valderrama,dora.ariza.valderrama@email.com,Arequipa,Perú,2023-08-16
+C112,Anita Cámara Pelayo,anita.camara.pelayo@email.com,Valparaíso,Chile,2025-04-23
+C113,Heriberto Ramis Yuste,heriberto.ramis.yuste@email.com,Rosario,Argentina,2024-01-11
+C114,Isidoro Juan Pablo Córdoba Cáceres,isidoro.juan.pablo.cordoba.caceres@email.com,Rosario,Argentina,2025-01-23
+C115,Marco Nacho Tenorio Maldonado,marco.nacho.tenorio.maldonado@email.com,Cochabamba,Bolivia,2025-09-10
+C116,Abril Olivé Valbuena,abril.olive.valbuena@email.com,La Paz,Bolivia,2023-08-08
+C117,Trini del Andreu,trini.del.andreu@email.com,Cusco,Perú,2023-12-05
+C118,Esteban de Pardo,esteban.de.pardo@email.com,Guadalajara,México,2023-10-06
+C119,Bibiana Blanes,bibiana.blanes@email.com,Medellín,Colombia,2024-03-29
+C120,Paulino Anguita Dueñas,paulino.anguita.dueñas@email.com,Cusco,Perú,2024-09-04
+C121,Aurora del Rivera,aurora.del.rivera@email.com,La Paz,Bolivia,2026-01-07
+C122,Concha Carpio Nevado,concha.carpio.nevado@email.com,Medellín,Colombia,2025-07-12
+C123,Iker Serna Carmona,iker.serna.carmona@email.com,Cali,Colombia,2024-05-03
+C124,Obdulia Zapata Estévez,obdulia.zapata.estevez@email.com,Medellín,Colombia,2025-08-19
+C125,Bernardo Roselló Matas,bernardo.rosello.matas@email.com,Monterrey,México,2026-05-16
+C126,Oriana Figueroa,oriana.figueroa@email.com,Lima,Perú,2024-01-17
+C127,Marcio Simó Álvarez,marcio.simo.alvarez@email.com,Buenos Aires,Argentina,2024-11-20
+C128,Balduino Escribano Almazán,balduino.escribano.almazan@email.com,Córdoba,Argentina,2024-03-04
+C129,Saturnina de Puga,saturnina.de.puga@email.com,Rosario,Argentina,2024-07-16
+C130,Bernardita Robles,bernardita.robles@email.com,Santa Cruz,Bolivia,2025-06-05
+C131,Lisandro Urbano Madrigal Mas,lisandro.urbano.madrigal.mas@email.com,Monterrey,México,2023-07-13
+C132,Javiera Valcárcel,javiera.valcarcel@email.com,Rosario,Argentina,2024-01-02
+C133,Yago Casanovas Quintero,yago.casanovas.quintero@email.com,Concepción,Chile,2026-03-17
+C134,Antonio Cabeza Guardiola,antonio.cabeza.guardiola@email.com,Cali,Colombia,2024-02-18
+C135,Gertrudis Español Roldan,gertrudis.español.roldan@email.com,Córdoba,Argentina,2024-06-02
+C136,Eliana Barranco Real,eliana.barranco.real@email.com,Cali,Colombia,2026-02-13
+C137,Melisa Iñiguez,melisa.iñiguez@email.com,Arequipa,Perú,2023-09-12
+C138,Ámbar Galiano Lasa,ambar.galiano.lasa@email.com,Córdoba,Argentina,2025-04-06
+C139,Ema Lillo-Múñiz,ema.lillo-muñiz@email.com,Valparaíso,Chile,2024-01-30
+C140,Jesusa Gárate Morata,jesusa.garate.morata@email.com,Bogotá,Colombia,2025-07-13
+C141,Paulina de Nuñez,paulina.de.nuñez@email.com,Concepción,Chile,2024-02-05
+C142,Cristóbal del Jerez,cristobal.del.jerez@email.com,Ciudad de México,México,2025-02-09
+C143,Ani Peinado-Zurita,ani.peinado-zurita@email.com,Santa Cruz,Bolivia,2024-12-17
+C144,Calixto Esparza Cortes,calixto.esparza.cortes@email.com,Ciudad de México,México,2025-04-19
+C145,Dorotea Echeverría Solé,dorotea.echeverria.sole@email.com,Cali,Colombia,2025-02-18
+C146,Salvador Cáceres Corominas,salvador.caceres.corominas@email.com,Bogotá,Colombia,2024-03-25
+C147,Eligia Palacio Alfaro,eligia.palacio.alfaro@email.com,Cali,Colombia,2025-07-20
+C148,Wálter Guitart Quesada,walter.guitart.quesada@email.com,Guadalajara,México,2024-02-18
+C149,Edmundo Álvarez,edmundo.alvarez@email.com,Concepción,Chile,2023-08-12
+C150,Bienvenida Bermúdez Cuenca,bienvenida.bermudez.cuenca@email.com,Concepción,Chile,2024-05-16
+C151,Ángeles Lupe Arévalo Jimenez,angeles.lupe.arevalo.jimenez@email.com,Cochabamba,Bolivia,2026-03-12
+C152,Elisabet Royo-Cánovas,elisabet.royo-canovas@email.com,Rosario,Argentina,2026-02-16
+C153,Calixta Gras Rosselló,calixta.gras.rossello@email.com,Cochabamba,Bolivia,2025-12-26
+C154,Cloe Tirado Rosselló,cloe.tirado.rossello@email.com,Bogotá,Colombia,2023-09-25
+C155,Gregorio Jacinto Serrano Moles,gregorio.jacinto.serrano.moles@email.com,Guadalajara,México,2024-04-10
+C156,Cecilia Gutierrez-Puig,cecilia.gutierrez-puig@email.com,Santa Cruz,Bolivia,2024-06-02
+C157,Curro Pallarès Perales,curro.pallarès.perales@email.com,Medellín,Colombia,2024-09-17
+C158,Ovidio Madrid Rios,ovidio.madrid.rios@email.com,Buenos Aires,Argentina,2023-06-03
+C159,Adalberto Tudela,adalberto.tudela@email.com,Monterrey,México,2023-06-10
+C160,Silvia Aramburu Barco,silvia.aramburu.barco@email.com,Santa Cruz,Bolivia,2023-06-29
+C161,Amado Ruy Suarez Perez,amado.ruy.suarez.perez@email.com,Buenos Aires,Argentina,2026-02-24
+C162,Diego Sobrino-Soriano,diego.sobrino-soriano@email.com,Cochabamba,Bolivia,2023-07-10
+C163,Gracia Ramirez Jurado,gracia.ramirez.jurado@email.com,Buenos Aires,Argentina,2024-04-17
+C164,Che Naranjo,che.naranjo@email.com,Cochabamba,Bolivia,2025-02-08
+C165,Francisco Jose Isidro Ángel Pinedo,francisco.jose.isidro.angel.pinedo@email.com,Guadalajara,México,2024-12-15
+C166,Bautista Matías Seco Acevedo,bautista.matias.seco.acevedo@email.com,Cusco,Perú,2025-07-29
+C167,Fausto Solana-Portillo,fausto.solana-portillo@email.com,Bogotá,Colombia,2026-01-24
+C168,Eligio Córdoba Cámara,eligio.cordoba.camara@email.com,Medellín,Colombia,2025-10-27
+C169,Pancho Alberto Infante Jordá,pancho.alberto.infante.jorda@email.com,Santa Cruz,Bolivia,2024-03-27
+C170,Seve Barón-Pinilla,seve.baron-pinilla@email.com,Concepción,Chile,2024-02-01
+C171,Nicolás Barrio,nicolas.barrio@email.com,Buenos Aires,Argentina,2026-03-26
+C172,Verónica Vilanova,veronica.vilanova@email.com,Ciudad de México,México,2025-10-31
+C173,Bárbara Dominguez Flores,barbara.dominguez.flores@email.com,Santiago,Chile,2026-05-24
+C174,Isaías del Benítez,isaias.del.benitez@email.com,La Paz,Bolivia,2023-09-10
+C175,Diana Atienza Garay,diana.atienza.garay@email.com,Medellín,Colombia,2025-08-27
+C176,Sigfrido Collado Martorell,sigfrido.collado.martorell@email.com,Santa Cruz,Bolivia,2025-11-03
+C177,Celso del Trillo,celso.del.trillo@email.com,Arequipa,Perú,2025-01-24
+C178,Lupe Abellán Galán,lupe.abellan.galan@email.com,Cusco,Perú,2026-05-26
+C179,Bienvenida Arteaga Toledo,bienvenida.arteaga.toledo@email.com,Bogotá,Colombia,2025-07-15
+C180,Matilde Exposito Saldaña,matilde.exposito.saldaña@email.com,Santiago,Chile,2025-12-06
+C181,Dolores Zabaleta Castellanos,dolores.zabaleta.castellanos@email.com,Medellín,Colombia,2025-07-31
+C182,Susanita Garriga Mancebo,susanita.garriga.mancebo@email.com,Córdoba,Argentina,2025-01-20
+C183,Nayara Nieto Céspedes,nayara.nieto.cespedes@email.com,Cochabamba,Bolivia,2025-05-29
+C184,Luisina Baeza Sureda,luisina.baeza.sureda@email.com,Valparaíso,Chile,2026-03-07
+C185,Eusebia Calvet-Casado,eusebia.calvet-casado@email.com,Concepción,Chile,2024-11-06
+C186,Almudena Cornejo Montserrat,almudena.cornejo.montserrat@email.com,Bogotá,Colombia,2025-05-12
+C187,Fabián Villalba Ramón,fabian.villalba.ramon@email.com,Guadalajara,México,2024-10-06
+C188,Ruy León Cámara,ruy.leon.camara@email.com,Santiago,Chile,2026-02-19
+C189,Priscila Garriga Barceló,priscila.garriga.barcelo@email.com,Buenos Aires,Argentina,2026-02-24
+C190,Adalberto Chacón Palomares,adalberto.chacon.palomares@email.com,Bogotá,Colombia,2025-10-04
+C191,África Edelmira Izaguirre Malo,africa.edelmira.izaguirre.malo@email.com,Guadalajara,México,2026-05-04
+C192,Fabiana Ferrer-Cózar,fabiana.ferrer-cozar@email.com,Medellín,Colombia,2025-08-14
+C193,Azahar Menendez Bertrán,azahar.menendez.bertran@email.com,Buenos Aires,Argentina,2025-02-04
+C194,Ildefonso Hernández-Sainz,ildefonso.hernandez-sainz@email.com,Arequipa,Perú,2026-05-23
+C195,Xavier Moreno Barón Hervia,xavier.moreno.baron.hervia@email.com,Lima,Perú,2025-10-18
+C196,Jonatan Mendez Flores,jonatan.mendez.flores@email.com,Guadalajara,México,2024-03-05
+C197,Teo Santos Tamayo,teo.santos.tamayo@email.com,Concepción,Chile,2025-09-04
+C198,Custodia Manuelita Gomis Abella,custodia.manuelita.gomis.abella@email.com,Monterrey,México,2024-02-15
+C199,Demetrio del Jódar,demetrio.del.jodar@email.com,Concepción,Chile,2025-12-17
+C200,María Manuela Carrera Barriga,maria.manuela.carrera.barriga@email.com,Bogotá,Colombia,2025-04-10
